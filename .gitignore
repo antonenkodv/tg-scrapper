@@ -1,0 +1,4 @@
+folder_name
+node_modules
+dist
+*.env
